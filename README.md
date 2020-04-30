@@ -1,2 +1,3 @@
 # Hello-world
-This is my first learning experrience in github. 
+This is my first learning experience in github. 
+my name is mani
